@@ -1,5 +1,4 @@
-# RGGRP-Summer-Expanisons-Part-2
-
+# RGGRP Update Expansion
 
 ## User Interface Overhaul
 
@@ -22,6 +21,16 @@ This update introduces a complete refresh of several core interfaces to improve 
 * New Teams selection frame.
 * New Teams button added.
 * Improved team selection with a modern layout.
+
+### New Inventory
+
+A completely new Inventory UI and backend system has been added.
+
+* Brand-new Inventory frame.
+* Modern inventory interface.
+* Improved item management.
+* Better organization and performance.
+* Designed to support future inventory features and expansions.
 
 ---
 
